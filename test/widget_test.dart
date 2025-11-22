@@ -8,7 +8,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:nifty_clothing_app/main.dart';
 import 'package:nifty_clothing_app/nifty_clothing_app.dart';
 
 void main() {
