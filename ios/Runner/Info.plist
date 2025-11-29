@@ -47,5 +47,12 @@
 		<true/>
 		<key>UIStatusBarHidden</key>
 		<false/>
+
+		<key>NSCameraUsageDescription</key>
+        <string>This app uses the camera so you can take a photo of your bank transfer receipt when completing your order.</string>
+
+        <key>NSPhotoLibraryUsageDescription</key>
+        <string>This app needs access to your photo library so you can upload or select your bank transfer receipt during checkout.</string>
+
 	</dict>
 </plist>
